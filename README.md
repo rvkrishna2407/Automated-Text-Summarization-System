@@ -1,2 +1,1 @@
-# Smart-Iot-Pet-Feeder
-The IoT Pet Feeder is an automated system that allows pet owners to feed their pets remotely via the internet. It utilizes IoT technology to schedule and control feeding times, ensuring pets are fed on time, even when the owner is away.
+An AI-based tool that condenses lengthy text into clear, concise summaries. It helps users quickly grasp key information without reading the entire content.
